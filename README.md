@@ -1,0 +1,2 @@
+# Smart-Robot-for-Detection-and-Fixation-of-potholes
+The Smart Robot for Pothole Detection and Automated Fixation is an autonomous system designed to identify and repair road potholes in real time. Using advanced sensors, it detects damage, evaluates severity and applies asphalt automatically.It improves road safety, reduces maintenance time and cost and enables efficient urban infrastructure upkeep.
